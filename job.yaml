@@ -3,6 +3,7 @@ kind: Job
 metadata:
   name: sleepy
 spec:
+  completions:5
   template:
     spec:
       containers:
