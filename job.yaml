@@ -1,7 +1,7 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: sleepy5
+  name: sleepy
 spec:
   template:
     spec:
